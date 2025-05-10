@@ -1,0 +1,41 @@
+football
+Arsenal
+Aaron Ramsdale,84;Ben White,82;William Saliba,83;Gabriel Magalhaes,83;Oleksandr Zinchenko,82;Declan Rice,85;Martin Odegaard,89;Kai Havertz,83;Bukayo Saka,86;Gabriel Jesus,84;Leandro Trossard,82;David Raya,82;Takehiro Tomiyasu,80;Jorginho,83;Emile Smith Rowe,80;Eddie Nketiah,78
+Aston Villa
+Emiliano Martínez,84;Matty Cash,80;Ezri Konsa,79;Tyrone Mings,80;Lucas Digne,81;Douglas Luiz,82;Boubacar Kamara,81;John McGinn,81;Leon Bailey,80;Ollie Watkins,82;Moussa Diaby,83;Robin Olsen,76;Diego Carlos,80;Youri Tielemans,82;Philippe Coutinho,81;Jhon Duran,75
+AFC Bournemouth
+Neto,80;Max Aarons,76;Marcos Senesi,78;Lloyd Kelly,77;Milos Kerkez,75;Lewis Cook,77;Ryan Christie,76;Philip Billing,78;Justin Kluivert,77;Dominic Solanke,78;Dango Ouattara,76;Andrei Radu,75;Chris Mepham,75;Joe Rothwell,75;David Brooks,74;Antoine Semenyo,74
+Brentford
+Mark Flekken,78;Aaron Hickey,77;Ethan Pinnock,79;Ben Mee,78;Rico Henry,78;Mathias Jensen,78;Christian Norgaard,80;Vitaly Janelt,76;Bryan Mbeumo,79;Yoane Wissa,78;Kevin Schade,75;Thomas Strakosha,77;Nathan Collins,77;Mikkel Damsgaard,76;Frank Onyeka,76;Saman Ghoddos,75
+Brighton & Hove Albion
+Bart Verbruggen,78;Joel Veltman,79;Lewis Dunk,80;Igor Julio,77;Pervis Estupinan,80;Billy Gilmour,77;Pascal Gross,82;Solly March,79;Kaoru Mitoma,80;Danny Welbeck,77;Evan Ferguson,76;Jason Steele,77;James Milner,78;Adam Webster,78;Mahmoud Dahoud,77;Facundo Buonanotte,75
+Burnley
+James Trafford,76;Connor Roberts,75;Jordan Beyer,76;Dara O'Shea,75;Vitinho,74;Josh Brownhill,76;Sander Berge,78;Johann Berg Gudmundsson,76;Lyle Foster,74;Zeki Amdouni,75;Anass Zaroury,76;Arijanet Muric,74;Charlie Taylor,74;Josh Cullen,75;Manuel Benson,75;Jacob Bruun Larsen,73
+Chelsea
+Robert Sanchez,81;Malo Gusto,75;Thiago Silva,85;Axel Disasi,80;Ben Chilwell,82;Enzo Fernandez,84;Conor Gallagher,80;Raheem Sterling,84;Cole Palmer,78;Mykhailo Mudryk,77;Nicolas Jackson,76;Djibril Sidibe,74;Marc Cucurella,78;Moises Caicedo,82;Noni Madueke,76;Armando Broja,74
+Crystal Palace
+Sam Johnstone,78;Joel Ward,76;Joachim Andersen,78;Marc Guehi,79;Tyrick Mitchell,78;Jeffrey Schlupp,76;Cheick Doucoure,78;Eberechi Eze,80;Jordan Ayew,76;Odsonne Edouard,78;Jean-Philippe Mateta,75;Dean Henderson,78;Nathaniel Clyne,75;Will Hughes,76;Jairo Riedewald,74;Jesurun Rak-Sakyi,74
+Everton
+Jordan Pickford,82;Nathan Patterson,75;James Tarkowski,78;Jarrad Branthwaite,76;Ashley Young,76;Amadou Onana,78;Idrissa Gueye,77;Dwight McNeil,78;Abdoulaye Doucoure,77;Dominic Calvert-Lewin,78;Arnaut Danjuma,77;Asmir Begovic,74;Michael Keane,76;James Garner,75;Alex Iwobi,77;Youssef Chermiti,73
+Fulham
+Bernd Leno,81;Kenny Tete,78;Issa Diop,79;Tim Ream,77;Antonee Robinson,77;Joao Palhinha,82;Harrison Reed,76;Tom Cairney,76;Andreas Pereira,78;Willian,79;Raul Jimenez,78;Marek Rodak,74;Calvin Bassey,76;Bobby Decordova-Reid,76;Harry Wilson,76;Carlos Vinicius,75
+Liverpool
+Alisson Becker,89;Trent Alexander-Arnold,87;Ibrahima Konate,81;Virgil van Dijk,89;Andy Robertson,85;Dominik Szoboszlai,82;Alexis Mac Allister,82;Curtis Jones,78;Mohamed Salah,89;Darwin Nunez,82;Luis Diaz,84;Caoimhín Kelleher,76;Joel Matip,82;Joe Gomez,80;Harvey Elliott,78;Diogo Jota,83
+Luton Town
+Thomas Kaminski,75;Issa Kabore,74;Tom Lockyer,74;Reece Burke,73;Amari'i Bell,74;Marvelous Nakamba,75;Pelly Ruddock Mpanzu,73;Tahith Chong,74;Jacob Brown,73;Elijah Adebayo,72;Carlton Morris,73;Simon Sluga,72;Alfie Doughty,73;Mads Andersen,72;Ross Barkley,74;Fred Onyedinma,72
+Manchester City
+Ederson,88;Kyle Walker,85;Ruben Dias,88;Manuel Akanji,84;Josko Gvardiol,83;Rodri,89;Bernardo Silva,87;Phil Foden,85;Julian Alvarez,83;Erling Haaland,91;Jack Grealish,84;Stefan Ortega,76;Nathan Ake,83;Mateo Kovacic,83;Jeremy Doku,80;Matheus Nunes,80
+Manchester United
+Andre Onana,85;Diogo Dalot,80;Raphael Varane,85;Lisandro Martinez,83;Luke Shaw,83;Casemiro,89;Bruno Fernandes,88;Christian Eriksen,82;Antony,81;Marcus Rashford,85;Rasmus Hojlund,77;Tom Heaton,73;Victor Lindelof,79;Scott McTominay,78;Jadon Sancho,82;Mason Mount,83
+Newcastle United
+Nick Pope,83;Kieran Trippier,85;Fabian Schar,81;Sven Botman,81;Dan Burn,80;Bruno Guimaraes,85;Sean Longstaff,78;Joelinton,81;Miguel Almiron,80;Alexander Isak,82;Anthony Gordon,78;Martin Dubravka,76;Jamaal Lascelles,77;Jacob Murphy,77;Elliot Anderson,75;Callum Wilson,80
+Nottingham Forest
+Matt Turner,76;Serge Aurier,76;Willy Boly,77;Joe Worrall,76;Ola Aina,75;Ryan Yates,76;Orel Mangala,76;Danilo,75;Morgan Gibbs-White,79;Taiwo Awoniyi,78;Chris Wood,77;Wayne Hennessey,72;Nuno Tavares,76;Cheikhou Kouyate,76;Anthony Elanga,76;Divock Origi,75
+Sheffield United
+Wes Foderingham,74;Vinicius Souza,74;Anel Ahmedhodzic,74;Jack Robinson,73;Jayden Bogle,72;Oliver Norwood,73;John Fleck,72;James McAtee,72;Gustavo Hamer,73;Benie Traore,72;Oliver McBurnie,72;Adam Davies,72;Rhys Norrington-Davies,72;Ismaila Coulibaly,71;Yasser Larouci,71;Billy Sharp,70
+Tottenham Hotspur
+Guglielmo Vicario,82;Pedro Porro,81;Cristian Romero,84;Micky van de Ven,80;Ben Davies,79;Pierre-Emile Hojbjerg,82;Yves Bissouma,81;James Maddison,84;Heung-Min Son,87;Dejan Kulusevski,81;Richarlison,82;Fraser Forster,77;Eric Dier,79;Manor Solomon,78;Rodrigo Bentancur,82;Ivan Perisic,80
+West Ham United
+Alphonse Areola,80;Vladimir Coufal,79;Kurt Zouma,81;Nayef Aguerd,80;Emerson,78;Edson Alvarez,81;Lucas Paqueta,82;James Ward-Prowse,80;Jarrod Bowen,81;Michail Antonio,78;Mohammed Kudus,78;Lukasz Fabianski,79;Angelo Ogbonna,78;Pablo Fornals,79;Said Benrahma,78;Danny Ings,77
+Wolverhampton Wanderers
+José Sa,81;Nelson Semedo,78;Craig Dawson,78;Max Kilman,79;Rayan Ait-Nouri,77;Joao Gomes,77;Mario Lemina,76;Matheus Cunha,78;Pedro Neto,79;Fabio Silva,77;Hwang Hee-Chan,76;Dan Bentley,74;Toti Gomes,74;Boubacar Traore,75;Pablo Sarabia,76;Sasa Kalajdzic,76
